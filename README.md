@@ -11,7 +11,7 @@ I hold a Bachelor’s and Master’s in Forestry, which trained me to think in s
 That mindset is exactly what I bring to analytics: asking the right questions, building reliable reporting, and communicating insights in a way that helps teams decide faster.
 
 ## My journey into analytics
-I moved into data analytics through curiosity—wanting to understand *why* something is happening, not just *what* is happening.   
+I moved into data analytics through curiosity-wanting to understand *why* something is happening, not just *what* is happening.   
 Today, I focus on work that goes from messy data → clean model → meaningful visuals → a story that stakeholders can act on.
 
 ## UPSC journey (2023-2025)
