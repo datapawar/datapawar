@@ -4,7 +4,7 @@ About Me
 
 ### <div align="center"> [![LinkedIn](https://img.shields.io/badge/|-LinkedIn-informational?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhi-datanaut/) [![Email](https://img.shields.io/badge/|-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:pawar.abhishekk08@gmail.com) </div>
 
-I’m a Data Analyst who enjoys turning raw data into clear dashboards and actionable insights, especially in environment, sustainability, and operations.
+I’m a Data Analyst who makes data show the way to smarter decisions, new possibilities, and a better tomorrow.
 
 ## About me
 I hold a Bachelor’s and Master’s in Forestry, which trained me to think in systems, connect patterns to real-world impact, and stay evidence-driven when information is incomplete.
@@ -25,6 +25,7 @@ That experience strengthened my discipline, structured thinking, and consistency
 
 ## Let’s connect
 Explore my repositories to see my work end-to-end, and feel free to reach out for opportunities, collaboration, or feedback.
+I’m an aspiring Data Analyst with a strong interest in applying data to improve environmental sustainability and operational performance.
 
 ---
 
