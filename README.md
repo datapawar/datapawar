@@ -20,7 +20,7 @@ That experience strengthened my discipline, structured thinking, and consistency
 
 ## My Toolkit
 | Power BI (dashboards, DAX, KPI tracking) | SQL (MySQL) (data extraction, joins, cleaning) | Excel (Power Query, pivots, reporting) |
-|-|-|-|
+|:-:|:-:|:-:|
 |<img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" title="PowerBI" alt="PowerBI" width="50" height="50" />|<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/>|<img src="https://github.com/user-attachments/assets/0ed55528-bc48-414a-91c5-0d3d6da434d7" title="Excel" alt="Excel" width="55" height="55"/>|
 
 ## Let’s connect
