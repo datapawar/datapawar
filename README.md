@@ -31,9 +31,16 @@ I’m an aspiring Data Analyst with a strong interest in applying data to improv
 
 # Projects:
 
+<img align="left" width="250" height="150" src="https://github.com/datapawar/Interactive-Excel-E-commerce-Dashboard/blob/main/thumbnail%20image..png"> **[Interactive Excel Ecommerce Dashboard](https://github.com/datapawar/Interactive-Excel-E-commerce-Dashboard)**
+</p> In this project I created an interactive excel dashboard for an ecommerce company using its transactions dataset (Jan–Mar 2025) to track KPIs, trends, customer behavior, delivery performance, geography, and satisfaction. Used PivotTables as the “calculation engine”, calculated helper columns (Days to Deliver, Week Number, cleaned Gender values), PivotCharts + formatting, slicers + report connections, conditional formatting, map charts, and linked pictures for dashboard-friendly visuals.
+</p>
+<br><br><br>
+
 <img align="left" width="250" height="150" src="https://github.com/datapawar/Excel_Sales_and_financial_performance_analysis./blob/main/excel%20project%20thumbnail.png"> **[AtliQHardware: Sales & Finance Performance Analysis](https://github.com/datapawar/Excel_Sales_and_financial_performance_analysis.)**
 </p> In this project I explored AtliQ Hardware - Customer, Product and Market Performance data from 2019 to 2021. Using Microsoft Excel I crafted key Sales and Finance Reports for strategic decision making, leveraging ETL methodologies, Power Query, Data Modelling, DAX and Pivot Tables.
 </p>
 <br><br><br>
+
+
 
 
