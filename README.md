@@ -31,6 +31,11 @@ I’m an aspiring Data Analyst with a strong interest in applying data to improv
 
 # Projects:
 
+<img align="left" width="250" height="150" src="https://github.com/datapawar/Fern-Petals-Sales-Analysis-using-MS-Excel/blob/main/dashboard.png"> **[Interactive Excel Dashboard Ferns & Petals Sales Analysis](https://github.com/datapawar/Fern-Petals-Sales-Analysis-using-MS-Excel)**
+</p> In this project I created an End-to-end Excel sales analytics project for Ferns & Petals using Power Query, Power Pivot, Pivot Tables, DAX, and dashboard design to demonstrate ETL, data modeling, retail analytics, and business insight storytelling skills.
+</p>
+<br><br><br>
+
 <img align="left" width="250" height="150" src="https://github.com/datapawar/Interactive-Excel-E-commerce-Dashboard/blob/main/thumbnail%20image..png"> **[Interactive Excel Ecommerce Dashboard](https://github.com/datapawar/Interactive-Excel-E-commerce-Dashboard)**
 </p> In this project I created an interactive excel dashboard for an ecommerce company using its transactions dataset (Jan–Mar 2025) to track KPIs, trends, customer behavior, delivery performance, geography, and satisfaction. Used PivotTables as the “calculation engine”, calculated helper columns (Days to Deliver, Week Number, cleaned Gender values), PivotCharts + formatting, slicers + report connections, conditional formatting, map charts, and linked pictures for dashboard-friendly visuals.
 </p>
