@@ -21,7 +21,7 @@ That experience strengthened my discipline, structured thinking, and consistency
 ## My Toolkit
 | Power BI (dashboards, DAX, KPI tracking) | SQL (MySQL) (data extraction, joins, cleaning) | Excel (Power Query, pivots, reporting) |
 |:-:|:-:|:-:|
-|<img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" title="PowerBI" alt="PowerBI" width="55" height="55" />|<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/>|<img src="https://private-user-images.githubusercontent.com/146955609/356304098-0ed55528-bc48-414a-91c5-0d3d6da434d7.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDA3NDg3OTgsIm5iZiI6MTc0MDc0ODQ5OCwicGF0aCI6Ii8xNDY5NTU2MDkvMzU2MzA0MDk4LTBlZDU1NTI4LWJjNDgtNDE0YS05MWM1LTBkM2Q2ZGE0MzRkNy5wbmcifQ.3EhqQ8gy5FLgpUX3sOGe6ZXP3eoGAVE9R0bAzXyK5oM" title="Excel" alt="Excel" width="55" height="55"/>|
+|<img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" title="PowerBI" alt="PowerBI" width="55" height="55" />|<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="70" height="70"/>|<img src="https://github.com/user-attachments/assets/0ed55528-bc48-414a-91c5-0d3d6da434d7" title="Excel" alt="Excel" width="55" height="55"/> |
 
 ## Let's connect
 Explore my repositories to see my work end-to-end, and feel free to reach out for opportunities, collaboration, or feedback.
@@ -33,7 +33,6 @@ I'm an aspiring Data Analyst with a strong interest in applying data to improve 
 
 <img align="left" width="250" height="150"
 src="https://github.com/datapawar/IDC_Pizza_Analytics_Mini_Project_using_MySQL/blob/main/Pizza%20thumbnail.jpeg"> **[IDC Pizza Analytics: SQL Mini-Project](https://github.com/datapawar/IDC_Pizza_Analytics_Mini_Project_using_MySQL)**
-![SQL](https://img.shields.io/badge/SQL-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=4479A1)
 <p> In this project I worked as a Data Analyst for IDC Pizza, analyzing sales data using MySQL to uncover insights, trends, and opportunities. The project is divided into 3 phases + 4 additional insights, each solved with a query and output, covering revenue analysis, order patterns, and pizza performance metrics.
 </p>
 <br><br><br>
