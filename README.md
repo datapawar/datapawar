@@ -34,7 +34,6 @@ I'm an aspiring Data Analyst with a strong interest in applying data to improve 
 <img align="left" width="250" height="150"
 src="https://github.com/datapawar/IDC_Pizza_Analytics_Mini_Project_using_MySQL/blob/main/Pizza%20thumbnail.jpeg"> **[IDC Pizza Analytics: SQL Mini-Project](https://github.com/datapawar/IDC_Pizza_Analytics_Mini_Project_using_MySQL)**
 ![SQL](https://img.shields.io/badge/SQL-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=4479A1)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat)
 <p> In this project I worked as a Data Analyst for IDC Pizza, analyzing sales data using MySQL to uncover insights, trends, and opportunities. The project is divided into 3 phases + 4 additional insights, each solved with a query and output, covering revenue analysis, order patterns, and pizza performance metrics.
 </p>
 <br><br><br>
