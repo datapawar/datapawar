@@ -52,3 +52,9 @@ src="https://github.com/datapawar/Excel_Sales_and_financial_performance_analysis
 <p> In this project I explored AtliQ Hardware - Customer, Product and Market Performance data from 2019 to 2021. Using Microsoft Excel I crafted key Sales and Finance Reports for strategic decision making, leveraging ETL methodologies, Power Query, Data Modelling, DAX and Pivot Tables.
 </p>
 <br><br><br>
+
+<img align="left" width="250" height="150"
+src="https://github.com/datapawar/Murder_Mystery_Capstone_Project_using_SQL/blob/main/MM%20Thumbnail.png"> **[SQL Murder Mystery: Who Killed the CEO?](https://github.com/datapawar/Murder_Mystery_Capstone_Project_using_SQL)**
+<p> In this project I solved a narrative, evidence-driven SQL investigation where every clue lives inside relational tables. Using CTEs, multi-table JOINs, alibi cross-checking, and set intersection logic, I identified the killer by correlating keycard logs, call records, alibi contradictions, and physical evidence across 6 structured investigation steps.
+</p>
+<br><br><br>
